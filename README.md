@@ -1,5 +1,5 @@
 # Project-1
-# Automated-Wheelchair-Prototype-with-Hand-Gesture-and-Bluetooth-Control-
+# Automated Wheelchair Prototype with Hand Gesture and Bluetooth Control
 In this project, I had developed a wheelchair prototype that can be controlled through hand gestures and Bluetooth connectivity. The use of hand gestures allows the user to navigate the wheelchair by simply moving their hands in specific patterns or gestures, eliminating the need for physical buttons or joysticks.
 The prototype also incorporates Bluetooth technology, enabling the user to control the wheelchair remotely using a smartphone or other Bluetooth-enabled devices. This adds convenience and flexibility to the control mechanism, as the user can operate the wheelchair from a distance without the need for direct physical interaction.
 The combination of hand gesture control and Bluetooth connectivity opens up new possibilities for wheelchair users, providing them with a more intuitive and customizable way to navigate their environment. It offers increased independence and freedom of movement, empowering individuals with mobility challenges to navigate their surroundings with ease.
